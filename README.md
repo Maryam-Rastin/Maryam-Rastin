@@ -30,21 +30,22 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📋 <a href="https://github.com/Maryam-Rastin/task-management-redux">Task Manager</a></h4>
-      <p>Kanban-style task tracker with status filtering, built on a single <b>Redux Toolkit</b> store and styled with <b>Tailwind CSS</b>.</p>
-      <p><code>React</code> <code>Redux Toolkit</code> <code>Tailwind CSS</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Maryam-Rastin/linkedin-clone-redux">LinkedIn Clone</a></h4>
       <p>Social feed with real-time posts, likes, and comments, backed by <b>Firebase Authentication</b> and <b>Firestore</b>.</p>
       <p><code>React</code> <code>Redux Toolkit</code> <code>Firebase</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>🛒 <a href="https://github.com/Maryam-Rastin/e-commerce-redux">E-Commerce Store</a></h4>
       <p>Product browsing and cart management with state kept in sync across the app through Redux Toolkit.</p>
       <p><code>React</code> <code>Redux Toolkit</code> <code>React Router</code></p>
+    </td>
+    
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📋 <a href="https://github.com/Maryam-Rastin/task-management-redux">Task Manager</a></h4>
+      <p>Kanban-style task tracker with status filtering, built on a single <b>Redux Toolkit</b> store and styled with <b>Tailwind CSS</b>.</p>
+      <p><code>React</code> <code>Redux Toolkit</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 <a href="https://github.com/Maryam-Rastin/Game-Database-TS-React">Free Game Database</a></h4>
