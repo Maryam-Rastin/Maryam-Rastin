@@ -29,6 +29,13 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4>🧩 <a href="https://github.com/Maryam-Rastin/fullstack-post-manager">Full-Stack Post Manager</a></h4>
+      <p>A complete post management app with a custom Express + TypeScript backend, PostgreSQL via <b>Drizzle ORM</b>, and a React frontend — containerized with <b>Docker</b>.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Maryam-Rastin/linkedin-clone-redux">LinkedIn Clone</a></h4>
       <p>Social feed with real-time posts, likes, and comments, backed by <b>Firebase Authentication</b> and <b>Firestore</b>.</p>
