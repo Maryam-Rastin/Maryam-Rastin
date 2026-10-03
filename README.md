@@ -62,9 +62,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💪 <a href="https://github.com/Maryam-Rastin/Gym-exercises">Gym Exercises</a></h4>
-      <p>Workout discovery app pulling live data from a public fitness API, with a responsive Material UI interface.</p>
-      <p><code>React</code> <code>Material UI</code> <code>REST API</code></p>
+      <h4>📍 <a href="https://github.com/Maryam-Rastin/ofogh-kourosh-store-locator">Ofogh Kourosh Store Locator</a></h4>
+      <p>Responsive store locator with an interactive Leaflet map, search and filtering, English/Persian (RTL) support, and light/dark themes — built on the WebJs framework.</p>
+      <p><code>TypeScript</code> <code>WebJs</code> <code>Leaflet</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/ofogh-kourosh-store-locator/">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4>💰 <a href="https://github.com/Maryam-Rastin/expense-tracker">Expense Tracker</a></h4>
@@ -83,7 +84,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frontend:** React, Redux Toolkit, React Router, Tailwind CSS, Material UI, Chakra UI, Styled Components
+**Frontend:** React, Redux Toolkit, React Router, WebJs, Leaflet, Tailwind CSS, Material UI, Chakra UI, Styled Components
 **Backend / Services:** Firebase (Auth, Firestore), REST APIs (Axios, Fetch)
 **Tooling:** Webpack, Babel, ESLint, Prettier, Stylelint, Husky, Git/GitHub
 
