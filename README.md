@@ -33,6 +33,7 @@
       <h4>🧩 <a href="https://github.com/Maryam-Rastin/fullstack-post-manager">Full-Stack Post Manager</a></h4>
       <p>A complete post management app with a custom Express + TypeScript backend, PostgreSQL via <b>Drizzle ORM</b>, and a React frontend — containerized with <b>Docker</b>.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code></p>
+      <p>🔗 <a href="https://fullstack-post-manager.vercel.app/">Live demo</a></p>
     </td>
   </tr>
   <tr>
