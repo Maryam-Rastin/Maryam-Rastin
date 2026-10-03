@@ -40,11 +40,13 @@
       <h4>💼 <a href="https://github.com/Maryam-Rastin/linkedin-clone-redux">LinkedIn Clone</a></h4>
       <p>Social feed with real-time posts, likes, and comments, backed by <b>Firebase Authentication</b> and <b>Firestore</b>.</p>
       <p><code>React</code> <code>Redux Toolkit</code> <code>Firebase</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/linkedin-clone-redux/">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4>🛒 <a href="https://github.com/Maryam-Rastin/e-commerce-redux">E-Commerce Store</a></h4>
       <p>Product browsing and cart management with state kept in sync across the app through Redux Toolkit.</p>
       <p><code>React</code> <code>Redux Toolkit</code> <code>React Router</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/e-commerce-redux/">Live demo</a></p>
     </td>
     
   </tr>
@@ -53,11 +55,13 @@
       <h4>📋 <a href="https://github.com/Maryam-Rastin/task-management-redux">Task Manager</a></h4>
       <p>Kanban-style task tracker with status filtering, built on a single <b>Redux Toolkit</b> store and styled with <b>Tailwind CSS</b>.</p>
       <p><code>React</code> <code>Redux Toolkit</code> <code>Tailwind CSS</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/task-management-redux/">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 <a href="https://github.com/Maryam-Rastin/Game-Database-TS-React">Free Game Database</a></h4>
       <p>Searchable, filterable game catalog built with <b>React + TypeScript</b> on a custom <b>Webpack</b> config, with full linting/formatting tooling.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Webpack</code> <code>Axios</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/Game-Database-TS-React/">Live demo</a></p>
     </td>
   </tr>
   <tr>
@@ -71,6 +75,7 @@
       <h4>💰 <a href="https://github.com/Maryam-Rastin/expense-tracker">Expense Tracker</a></h4>
       <p>Personal finance tracker with live balance updates and interactive charts.</p>
       <p><code>React</code> <code>Chakra UI</code> <code>ApexCharts</code></p>
+      <p>🔗 <a href="https://maryam-rastin.github.io/expense-tracker/">Live demo</a></p>
     </td>
   </tr>
 </table>
