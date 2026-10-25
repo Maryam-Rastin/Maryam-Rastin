@@ -19,7 +19,7 @@
 ### 🧭 About Me
 
 - 🎯 Currently focused on building production-quality React/TypeScript projects
-- 🌱 Always learning — recently went deeper into Redux Toolkit, Firebase (Auth + Firestore), and Tailwind CSS
+- 🌱 Always learning — recently went deeper into Redux Toolkit, Firebase (Auth + Firestore), Tailwind CSS, and automated testing with Vitest and React Testing Library
 - 💬 Comfortable with component architecture, REST API integration, state management, and responsive design
 - 📫 Open to front-end developer and internship opportunities — let's connect!
 
@@ -31,8 +31,8 @@
   <tr>
     <td colspan="2" valign="top">
       <h4>🧩 <a href="https://github.com/Maryam-Rastin/fullstack-post-manager">Full-Stack Post Manager</a></h4>
-      <p>A complete post management app with a custom Express + TypeScript backend, PostgreSQL via <b>Drizzle ORM</b>, and a React frontend — containerized with <b>Docker</b>.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code></p>
+      <p>A complete post management app with a custom Express + TypeScript backend, PostgreSQL via <b>Drizzle ORM</b>, and a React frontend — containerized with <b>Docker</b> and covered by backend and frontend test suites (<b>Vitest</b>, <b>Supertest</b>, <b>React Testing Library</b>, <b>MSW</b>).</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code> <code>Vitest</code></p>
       <p>🔗 <a href="https://fullstack-post-manager.vercel.app/">Live demo</a></p>
     </td>
   </tr>
@@ -49,7 +49,6 @@
       <p><code>React</code> <code>Redux Toolkit</code> <code>React Router</code></p>
       <p>🔗 <a href="https://maryam-rastin.github.io/e-commerce-redux/">Live demo</a></p>
     </td>
-    
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -89,9 +88,10 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-**Frontend:** React, Redux Toolkit, React Router, WebJs, Leaflet, Tailwind CSS, Material UI, Chakra UI, Styled Components
-**Backend / Services:** Firebase (Auth, Firestore), REST APIs (Axios, Fetch)
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3<br>
+**Frontend:** React, Redux Toolkit, React Router, WebJs, Leaflet, Tailwind CSS, Material UI, Chakra UI, Styled Components<br>
+**Backend / Services:** Firebase (Auth, Firestore), REST APIs (Axios, Fetch)<br>
+**Testing:** Vitest, React Testing Library, MSW, Supertest<br>
 **Tooling:** Webpack, Babel, ESLint, Prettier, Stylelint, Husky, Git/GitHub
 
 ---
